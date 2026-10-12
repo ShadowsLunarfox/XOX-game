@@ -32,7 +32,7 @@ surface.fill(color)
 pygame.display.flip() 
 
 
-
+#initilize the font#initilize the font#initilize the font#initilize the font#initilize the font
 
 #initilize the font
 font = pygame.font.SysFont("Arial", 32)
